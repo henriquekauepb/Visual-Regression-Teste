@@ -1,0 +1,328 @@
+{
+  "total": 28,
+  "totalPassed": 27,
+  "totalFailed": 1,
+  "totalSuites": 1,
+  "suites": [
+    {
+      "name": "layout.cy.js",
+      "path": "cypress\\e2e\\layout.cy.js",
+      "tests": [
+        {
+          "status": "pass",
+          "name": "layout.cy-gerencias",
+          "percentage": 0,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-gerencias.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-gerencias.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-quem-e-quem",
+          "percentage": 0.0006550615400736322,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-quem-e-quem.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-quem-e-quem.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-ouvidoria",
+          "percentage": 0.003027121467785389,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-ouvidoria.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-ouvidoria.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-gestao-de-riscos",
+          "percentage": 0.0012172900594795413,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-gestao-de-riscos.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-gestao-de-riscos.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-instrumentos-de-governanca",
+          "percentage": 0.001556593630783239,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-instrumentos-de-governanca.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-instrumentos-de-governanca.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-codigo-de-boas-praticas-da-telebras",
+          "percentage": 0.0016640274462196086,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-codigo-de-boas-praticas-da-telebras.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-codigo-de-boas-praticas-da-telebras.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-politica-de-transacoes-com-partes-relacionadas",
+          "percentage": 0.0018171094607790776,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-politica-de-transacoes-com-partes-relacionadas.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-politica-de-transacoes-com-partes-relacionadas.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-concurso-telebras-2025",
+          "percentage": 0.0007664016652393473,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-concurso-telebras-2025.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-concurso-telebras-2025.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-codigo-de-etica",
+          "percentage": 0.001812413528091481,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-codigo-de-etica.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-codigo-de-etica.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-base-juridica",
+          "percentage": 0.0013547484900973614,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-base-juridica.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-base-juridica.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-conselho-de-administracao",
+          "percentage": 0.0011348781793922718,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-conselho-de-administracao.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-conselho-de-administracao.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-fale-conosco",
+          "percentage": 0.001522206798882264,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-fale-conosco.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-fale-conosco.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-conselho-fiscal",
+          "percentage": 0.008570222432173823,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-conselho-fiscal.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-conselho-fiscal.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-diarias-e-passagens",
+          "percentage": 0.020319656396387317,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-diarias-e-passagens.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-diarias-e-passagens.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-licitacoes-e-contratos",
+          "percentage": 0.0013103239053059693,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-licitacoes-e-contratos.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-licitacoes-e-contratos.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-agentes-publicos",
+          "percentage": 0.0010499343811517028,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-agentes-publicos.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-agentes-publicos.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-terceirizados",
+          "percentage": 0.0012090008368879405,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-terceirizados.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-terceirizados.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-institucional",
+          "percentage": 0.0026933039209050833,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-institucional.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-institucional.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-comite-de-pessoas-elegibilidade-sucessao-e-remuneracao",
+          "percentage": 0.009967167483036323,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-comite-de-pessoas-elegibilidade-sucessao-e-remuneracao.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-comite-de-pessoas-elegibilidade-sucessao-e-remuneracao.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2025",
+          "percentage": 0.001501717230098682,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2025.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2025.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-demonstracoes-financeiras-e-relatorio-da-administracao-2024",
+          "percentage": 0.022542533778298495,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-demonstracoes-financeiras-e-relatorio-da-administracao-2024.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-demonstracoes-financeiras-e-relatorio-da-administracao-2024.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-demonstracoes-financeiras-e-relatorio-da-administracao-2023",
+          "percentage": 0.0014067971833054604,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-demonstracoes-financeiras-e-relatorio-da-administracao-2023.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-demonstracoes-financeiras-e-relatorio-da-administracao-2023.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-demonstracoes-financeiras-e-relatorio-da-administracao",
+          "percentage": 0.025382604861809342,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-demonstracoes-financeiras-e-relatorio-da-administracao.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-demonstracoes-financeiras-e-relatorio-da-administracao.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-demonstracoes-financeiras-e-relatorio-da-administracao-2025",
+          "percentage": 0.001466245937718891,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-demonstracoes-financeiras-e-relatorio-da-administracao-2025.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-demonstracoes-financeiras-e-relatorio-da-administracao-2025.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-transparencia-e-prestacao-de-contas-conselho-de-administracao",
+          "percentage": 0.0011428971282957912,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-transparencia-e-prestacao-de-contas-conselho-de-administracao.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-transparencia-e-prestacao-de-contas-conselho-de-administracao.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-carta-de-servico-ao-usuario",
+          "percentage": 0.0014694083883390484,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-carta-de-servico-ao-usuario.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-carta-de-servico-ao-usuario.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-carta-anual-de-governanca",
+          "percentage": 0.0016899636541011119,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-carta-anual-de-governanca.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-carta-anual-de-governanca.png"
+        },
+        {
+          "status": "fail",
+          "name": "layout.cy-diretoria-executiva",
+          "percentage": 0.27537430192406165,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-diretoria-executiva.png",
+          "diffPath": "cypress-image-diff-screenshots\\diff\\layout.cy-diretoria-executiva.png",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-diretoria-executiva.png"
+        }
+      ]
+    }
+  ],
+  "startedAt": "2026-09-17T16:17:14.355Z",
+  "endedAt": "2026-09-17T16:21:45.745Z",
+  "duration": 271390,
+  "browserName": "electron",
+  "browserVersion": "118.0.5993.159",
+  "cypressVersion": "13.17.0"
+}

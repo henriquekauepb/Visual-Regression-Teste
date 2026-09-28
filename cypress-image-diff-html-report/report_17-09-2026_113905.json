@@ -1,0 +1,97 @@
+{
+  "total": 7,
+  "totalPassed": 7,
+  "totalFailed": 0,
+  "totalSuites": 1,
+  "suites": [
+    {
+      "name": "layout.cy.js",
+      "path": "cypress\\e2e\\layout.cy.js",
+      "tests": [
+        {
+          "status": "pass",
+          "name": "layout.cy-comunicados-avisos-e-esclarecimentos2022-antigo",
+          "percentage": 0,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-comunicados-avisos-e-esclarecimentos2022-antigo.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-comunicados-avisos-e-esclarecimentos2022-antigo.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-avisos-comunicados-esclarecimentos2021-antigo",
+          "percentage": 0,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-avisos-comunicados-esclarecimentos2021-antigo.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-avisos-comunicados-esclarecimentos2021-antigo.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-relatorios-da-ouvidoria-2024",
+          "percentage": 0,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-relatorios-da-ouvidoria-2024.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-relatorios-da-ouvidoria-2024.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-licitacoes-em-andamento-2024",
+          "percentage": 0,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-licitacoes-em-andamento-2024.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-licitacoes-em-andamento-2024.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-auditoria",
+          "percentage": 0,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-auditoria.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-auditoria.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-envio-proposta-comercial-contratacao-de-solucoes-de-infraestrutura-de-rede-de-dados",
+          "percentage": 0,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-envio-proposta-comercial-contratacao-de-solucoes-de-infraestrutura-de-rede-de-dados.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-envio-proposta-comercial-contratacao-de-solucoes-de-infraestrutura-de-rede-de-dados.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-envio-proposta-comercial-contratacao-de-empresa-de-plataforma-dns",
+          "percentage": 0,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-envio-proposta-comercial-contratacao-de-empresa-de-plataforma-dns.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-envio-proposta-comercial-contratacao-de-empresa-de-plataforma-dns.png"
+        }
+      ]
+    }
+  ],
+  "startedAt": "2026-09-17T14:39:05.386Z",
+  "endedAt": "2026-09-17T14:39:37.439Z",
+  "duration": 32053,
+  "browserName": "electron",
+  "browserVersion": "118.0.5993.159",
+  "cypressVersion": "13.17.0"
+}

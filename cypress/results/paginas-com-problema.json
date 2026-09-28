@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Verificar: agentes-publicos",
+    "erro": "Timed out after waiting `30000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `30000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `Users\\henrique.malaquias\\Documents\\Site Institucional Telebras\\cypress.config.js` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands."
+  },
+  {
+    "id": "Verificar: institucional",
+    "erro": "Página \"institucional\" (/acesso-a-informacao/institucional/) está retornando 404: expected true to be false"
+  },
+  {
+    "id": "Verificar: agenda-de-autoridades",
+    "erro": "Timed out after waiting `30000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `30000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `Users\\henrique.malaquias\\Documents\\Site Institucional Telebras\\cypress.config.js` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands."
+  },
+  {
+    "id": "Verificar: imprensa",
+    "erro": "Página \"imprensa\" (/imprensa/) está retornando 404: expected true to be false"
+  },
+  {
+    "id": "Verificar: contratacao-de-solucoes-de-infraestrutura-de-rede-de-dados",
+    "erro": "The following error originated from your application code, not from Cypress.\n\n  > Script error.\n\nCypress detected that an uncaught error was thrown from a cross origin script.\n\nWe cannot provide you the stack trace, line number, or file where this error occurred.\n\nCheck your Developer Tools Console for the actual error - it should be printed there.\n\nIt's possible to enable debugging these scripts by adding the `crossorigin` attribute and setting a CORS header.\n\nWhen Cypress detects uncaught errors originating from your application it will automatically fail the current test.\n\nThis behavior is configurable, and you can choose to turn this off by listening to the `uncaught:exception` event."
+  },
+  {
+    "id": "Verificar: contratacao-da-construcao-de-rede-metropolitana-no-municipio-de-brasilia-df",
+    "erro": "The following error originated from your application code, not from Cypress.\n\n  > Script error.\n\nCypress detected that an uncaught error was thrown from a cross origin script.\n\nWe cannot provide you the stack trace, line number, or file where this error occurred.\n\nCheck your Developer Tools Console for the actual error - it should be printed there.\n\nIt's possible to enable debugging these scripts by adding the `crossorigin` attribute and setting a CORS header.\n\nWhen Cypress detects uncaught errors originating from your application it will automatically fail the current test.\n\nThis behavior is configurable, and you can choose to turn this off by listening to the `uncaught:exception` event."
+  },
+  {
+    "id": "Verificar: dispensas-e-inexigibilidades-2018",
+    "erro": "Timed out after waiting `30000ms` for your remote page to load.\n\nYour page did not fire its `load` event within `30000ms`.\n\nYou can try increasing the `pageLoadTimeout` value in `Users\\henrique.malaquias\\Documents\\Site Institucional Telebras\\cypress.config.js` to wait longer.\n\nBrowsers will not fire the `load` event until all stylesheets and scripts are done downloading.\n\nWhen this `load` event occurs, Cypress will continue running commands."
+  }
+]

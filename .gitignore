@@ -1,0 +1,4 @@
+cypress-visual-screenshots/comparison/
+cypress-visual-screenshots/diff/
+cypress-visual-report/
+.env

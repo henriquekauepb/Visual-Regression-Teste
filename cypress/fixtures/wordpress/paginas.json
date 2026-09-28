@@ -1,0 +1,2112 @@
+[
+  {
+    "id": "gerencias",
+    "nome": "Gerências",
+    "url": "/acesso-a-informacao/institucional/quem-e-quem/gerencias/"
+  },
+  {
+    "id": "quem-e-quem",
+    "nome": "Quem é quem",
+    "url": "/acesso-a-informacao/institucional/quem-e-quem/"
+  },
+  {
+    "id": "ouvidoria",
+    "nome": "Ouvidoria",
+    "url": "/acesso-a-informacao/ouvidoria/"
+  },
+  {
+    "id": "gestao-de-riscos",
+    "nome": "Gestão de riscos",
+    "url": "/transparencia-e-prestacao-de-contas/gestao-de-riscos/"
+  },
+  {
+    "id": "instrumentos-de-governanca",
+    "nome": "Instrumentos de governança",
+    "url": "/instrumentos-de-governanca/"
+  },
+  {
+    "id": "codigo-de-boas-praticas-da-telebras",
+    "nome": "Código de boas práticas da Telebras",
+    "url": "/instrumentos-de-governanca/codigo-de-boas-praticas-da-telebras/"
+  },
+  {
+    "id": "politica-de-transacoes-com-partes-relacionadas",
+    "nome": "Política de transações com partes relacionadas",
+    "url": "/transparencia-e-prestacao-de-contas/politica-de-transacoes-com-partes-relacionadas/"
+  },
+  {
+    "id": "concurso-telebras-2025",
+    "nome": "Concurso Telebras 2025",
+    "url": "/conheca-a-telebras/concursos-publicos/concurso-telebras-2025/"
+  },
+  {
+    "id": "codigo-de-etica",
+    "nome": "Código de ética",
+    "url": "/transparencia-e-prestacao-de-contas/codigo-de-etica/"
+  },
+  {
+    "id": "base-juridica",
+    "nome": "Base jurídica",
+    "url": "/acesso-a-informacao/base-juridica/"
+  },
+  {
+    "id": "conselho-de-administracao",
+    "nome": "Conselho de administração",
+    "url": "/acesso-a-informacao/institucional/quem-e-quem/conselho-de-administracao/"
+  },
+  {
+    "id": "fale-conosco",
+    "nome": "Fale conosco",
+    "url": "/fale-conosco/"
+  },
+  {
+    "id": "conselho-fiscal",
+    "nome": "Conselho fiscal",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-fiscal/"
+  },
+  {
+    "id": "diarias-e-passagens",
+    "nome": "Diárias e passagens",
+    "url": "/acesso-a-informacao/diarias-e-passagens/"
+  },
+  {
+    "id": "licitacoes-e-contratos",
+    "nome": "Licitações e contratos",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/"
+  },
+  {
+    "id": "agentes-publicos",
+    "nome": "Agentes públicos",
+    "url": "/conheca-a-telebras/agentes-publicos/"
+  },
+  {
+    "id": "terceirizados",
+    "nome": "Terceirizados",
+    "url": "/acesso-a-informacao/terceirizados/"
+  },
+  {
+    "id": "institucional",
+    "nome": "Institucional",
+    "url": "/acesso-a-informacao/institucional/"
+  },
+  {
+    "id": "comite-de-pessoas-elegibilidade-sucessao-e-remuneracao",
+    "nome": "Comitê de pessoas elegibilidade sucessão e remuneração",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-pessoas-elegibilidade-sucessao-e-remuneracao/"
+  },
+  {
+    "id": "comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2025",
+    "nome": "Comitê de pessoas elegibilidade sucessão e remuneração 2025",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2025/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2024",
+    "nome": "Demonstrações financeiras e relatório da administração 2024",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2024/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2023",
+    "nome": "Demonstrações financeiras e relatório da administração 2023",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2023/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao",
+    "nome": "Demonstrações financeiras e relatório da administração",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2025",
+    "nome": "Demonstrações financeiras e relatório da administração 2025",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2025/"
+  },
+  {
+    "id": "transparencia-e-prestacao-de-contas-conselho-de-administracao",
+    "nome": "Conselho de administração",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao/"
+  },
+  {
+    "id": "carta-de-servico-ao-usuario",
+    "nome": "Carta de serviço ao usuário",
+    "url": "/acesso-a-informacao/carta-de-servico-ao-usuario/"
+  },
+  {
+    "id": "carta-anual-de-governanca",
+    "nome": "Carta anual de governança",
+    "url": "/transparencia-e-prestacao-de-contas/carta-anual-de-governanca/"
+  },
+  {
+    "id": "diretoria-executiva",
+    "nome": "Diretoria executiva",
+    "url": "/acesso-a-informacao/institucional/quem-e-quem/diretoria-executiva/"
+  },
+  {
+    "id": "nossa-marca",
+    "nome": "Nossa marca",
+    "url": "/nossa-marca/"
+  },
+  {
+    "id": "cipa",
+    "nome": "CIPA",
+    "url": "/transparencia-e-prestacao-de-contas/cipa/"
+  },
+  {
+    "id": "assembleias",
+    "nome": "Assembleias",
+    "url": "/investidores/assembleias/"
+  },
+  {
+    "id": "governodigital",
+    "nome": "Governo Digital",
+    "url": "/acesso-a-informacao/governodigital/"
+  },
+  {
+    "id": "licitacoes-em-andamento",
+    "nome": "Licitações em andamento",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-em-andamento/"
+  },
+  {
+    "id": "licitacoes-realizadas",
+    "nome": "Licitações realizadas",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas/"
+  },
+  {
+    "id": "investidores",
+    "nome": "Investidores",
+    "url": "/investidores/"
+  },
+  {
+    "id": "comunicados-avisos-e-esclarecimentos-v2",
+    "nome": "Comunicados avisos e esclarecimentos v2",
+    "url": "/investidores/comunicados-avisos-e-esclarecimentos-v2/"
+  },
+  {
+    "id": "gabinete-e-gerencias",
+    "nome": "Gabinete e gerências",
+    "url": "/acesso-a-informacao/institucional/quem-e-quem/gabinete-e-gerencias/"
+  },
+  {
+    "id": "convenios-e-transferencias",
+    "nome": "Convênios e transferências",
+    "url": "/acesso-a-informacao/convenios-e-transferencias/"
+  },
+  {
+    "id": "estrutura-de-governanca",
+    "nome": "Estrutura de governança",
+    "url": "/conheca-a-telebras/estrutura-de-governanca/"
+  },
+  {
+    "id": "concurso-telebras-2021",
+    "nome": "Concurso Telebras 2021",
+    "url": "/conheca-a-telebras/concursos-publicos/concurso-telebras-2021/"
+  },
+  {
+    "id": "audiencias-consultas-publicas",
+    "nome": "Audiências consultas públicas",
+    "url": "/acesso-a-informacao/audiencias-consultas-publicas/"
+  },
+  {
+    "id": "corregedoria",
+    "nome": "Corregedoria",
+    "url": "/corregedoria/"
+  },
+  {
+    "id": "quem-e-quem-serie-historica",
+    "nome": "Quem é quem - série histórica",
+    "url": "/acesso-a-informacao/institucional/quem-e-quem-serie-historica/"
+  },
+  {
+    "id": "organograma",
+    "nome": "Organograma",
+    "url": "/organograma/"
+  },
+  {
+    "id": "as-mais-frequentes",
+    "nome": "As mais frequentes",
+    "url": "/acesso-a-informacao/perguntas-frequentes/as-mais-frequentes/"
+  },
+  {
+    "id": "perguntas-frequentes",
+    "nome": "Perguntas frequentes",
+    "url": "/acesso-a-informacao/perguntas-frequentes/"
+  },
+  {
+    "id": "transparencia-e-prestacao-de-contas",
+    "nome": "Transparência e prestação de contas",
+    "url": "/transparencia-e-prestacao-de-contas/"
+  },
+  {
+    "id": "contratos-e-ordem-de-compra",
+    "nome": "Contratos e ordem de compra",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/"
+  },
+  {
+    "id": "conheca-a-telebras",
+    "nome": "Conheça a Telebras",
+    "url": "/conheca-a-telebras/"
+  },
+  {
+    "id": "acesso-a-informacao",
+    "nome": "Acesso à informação",
+    "url": "/acesso-a-informacao/"
+  },
+  {
+    "id": "para-o-governo",
+    "nome": "Para o governo",
+    "url": "/para-o-governo/"
+  },
+  {
+    "id": "licitacoes-realizadas-2015",
+    "nome": "Licitações realizadas 2015",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2015/"
+  },
+  {
+    "id": "licitacoes-realizadas-2016",
+    "nome": "Licitações realizadas 2016",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2016/"
+  },
+  {
+    "id": "licitacoes-realizadas-2017",
+    "nome": "Licitações realizadas 2017",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2017/"
+  },
+  {
+    "id": "licitacoes-realizadas-2018",
+    "nome": "Licitações realizadas 2018",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2018/"
+  },
+  {
+    "id": "licitacoes-realizadas-2019",
+    "nome": "Licitações realizadas 2019",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2019/"
+  },
+  {
+    "id": "licitacoes-realizadas-2022-1",
+    "nome": "Licitações realizadas 2022 1",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2022-1/"
+  },
+  {
+    "id": "licitacoes-realizadas-2023",
+    "nome": "Licitações realizadas 2023",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2023/"
+  },
+  {
+    "id": "avisos-comunicados-e-esclarecimentos-2018",
+    "nome": "Avisos comunicados e esclarecimentos 2018",
+    "url": "/investidores/avisos-comunicados-e-esclarecimentos-2018/"
+  },
+  {
+    "id": "licitacoes-realizadas-2014",
+    "nome": "Licitações realizadas 2014",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2014/"
+  },
+  {
+    "id": "licitacoes-realizadas-2013",
+    "nome": "Licitações realizadas 2013",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2013/"
+  },
+  {
+    "id": "licitacoes-realizadas-2012",
+    "nome": "Licitações realizadas 2012",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2012/"
+  },
+  {
+    "id": "licitacoes-realizadas-2011",
+    "nome": "Licitações realizadas 2011",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2011/"
+  },
+  {
+    "id": "licitacoes-realizadas-2010",
+    "nome": "Licitações realizadas 2010",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2010/"
+  },
+  {
+    "id": "licitacoes-realizadas-2009",
+    "nome": "Licitações realizadas 2009",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2009/"
+  },
+  {
+    "id": "licitacoes-realizadas-2008",
+    "nome": "Licitações realizadas 2008",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2008/"
+  },
+  {
+    "id": "licitacoes-realizadas-2007",
+    "nome": "Licitações realizadas 2007",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2007/"
+  },
+  {
+    "id": "licitacoes-realizadas-2006",
+    "nome": "Licitações realizadas 2006",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2006/"
+  },
+  {
+    "id": "contratos-2025",
+    "nome": "Contratos 2025",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/contratos-2025/"
+  },
+  {
+    "id": "contratos-2022",
+    "nome": "Contratos 2022",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/contratos-2022/"
+  },
+  {
+    "id": "licitacoes-realizadas-2021-2",
+    "nome": "Licitações realizadas 2021 2",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2021-2/"
+  },
+  {
+    "id": "contratos-2020",
+    "nome": "Contratos 2020",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/contratos-2020/"
+  },
+  {
+    "id": "notas-de-empenho-2020",
+    "nome": "Notas de empenho 2020",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/notas-de-empenho-2020/"
+  },
+  {
+    "id": "atas-de-registro-de-preco-2020",
+    "nome": "Atas de registro de preço 2020",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/atas-de-registro-de-preco-2020/"
+  },
+  {
+    "id": "contratos-2019",
+    "nome": "Contratos 2019",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/contratos-2019/"
+  },
+  {
+    "id": "ordem-de-compra-2019",
+    "nome": "Ordem de compra 2019",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/ordem-de-compra-2019/"
+  },
+  {
+    "id": "dispensas-e-inexigibilidades-2019",
+    "nome": "Dispensas e inexigibilidades 2019",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/dispensas-e-inexigibilidades-2019/"
+  },
+  {
+    "id": "atas-de-registro-de-preco-2019",
+    "nome": "Atas de registro de preço 2019",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/atas-de-registro-de-preco-2019/"
+  },
+  {
+    "id": "contratos-2018",
+    "nome": "Contratos 2018",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/contratos-2018/"
+  },
+  {
+    "id": "ordens-de-compra-2018",
+    "nome": "Ordens de compra 2018",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/ordens-de-compra-2018/"
+  },
+  {
+    "id": "atas-de-registro-de-preco-2018",
+    "nome": "Atas de registro de preço 2018",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/atas-de-registro-de-preco-2018/"
+  },
+  {
+    "id": "contratos-2017",
+    "nome": "Contratos 2017",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/contratos-2017/"
+  },
+  {
+    "id": "ordens-de-compra-2017",
+    "nome": "Ordens de compra 2017",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/ordens-de-compra-2017/"
+  },
+  {
+    "id": "dispensas-e-inexigibilidades-2017",
+    "nome": "Dispensas e inexigibilidades 2017",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/dispensas-e-inexigibilidades-2017/"
+  },
+  {
+    "id": "ordens-de-compra-2016",
+    "nome": "Ordens de compra 2016",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/ordens-de-compra-2016/"
+  },
+  {
+    "id": "dispensas-e-inexigibilidades-2016",
+    "nome": "Dispensas e inexigibilidades 2016",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/dispensas-e-inexigibilidades-2016/"
+  },
+  {
+    "id": "anos-anteriores-2016",
+    "nome": "Anos anteriores 2016",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/anos-anteriores-2016/"
+  },
+  {
+    "id": "anos-anteriores-2015",
+    "nome": "Anos anteriores 2015",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/anos-anteriores-2015/"
+  },
+  {
+    "id": "anos-anteriores-2013",
+    "nome": "Anos anteriores 2013",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/anos-anteriores-2013/"
+  },
+  {
+    "id": "anos-anteriores-2012",
+    "nome": "Anos anteriores 2012",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/anos-anteriores-2012/"
+  },
+  {
+    "id": "anos-anteriores-2011",
+    "nome": "Anos anteriores 2011",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/anos-anteriores-2011/"
+  },
+  {
+    "id": "anos-anteriores-2010",
+    "nome": "Anos anteriores 2010",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/anos-anteriores-2010/"
+  },
+  {
+    "id": "anos-anteriores-2009",
+    "nome": "Anos anteriores 2009",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/anos-anteriores-2009/"
+  },
+  {
+    "id": "anos-anteriores-2008",
+    "nome": "Anos anteriores 2008",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/anos-anteriores-2008/"
+  },
+  {
+    "id": "anos-anteriores-2007",
+    "nome": "Anos anteriores 2007",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/anos-anteriores-2007/"
+  },
+  {
+    "id": "anos-anteriores-2006",
+    "nome": "Anos anteriores 2006",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/anos-anteriores-2006/"
+  },
+  {
+    "id": "demonstracoes-contabeis-2023",
+    "nome": "Demonstrações contábeis 2023",
+    "url": "/investidores/demonstracoes-contabeis-2023/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2022",
+    "nome": "Demonstrações financeiras e relatório da administração 2022",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2022/"
+  },
+  {
+    "id": "demonstracao-financeira-e-relatorio-administracao-2021",
+    "nome": "Demonstração financeira e relatório administração 2021",
+    "url": "/investidores/demonstracao-financeira-e-relatorio-administracao-2021/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2020",
+    "nome": "Demonstrações financeiras e relatório da administração 2020",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2020/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2019",
+    "nome": "Demonstrações financeiras e relatório da administração 2019",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2019/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2018",
+    "nome": "Demonstrações financeiras e relatório da administração 2018",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2018/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2013",
+    "nome": "Demonstrações financeiras e relatório da administração 2013",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2013/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2017",
+    "nome": "Demonstrações financeiras e relatório da administração 2017",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2017/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2016",
+    "nome": "Demonstrações financeiras e relatório da administração 2016",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2016/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2015",
+    "nome": "Demonstrações financeiras e relatório da administração 2015",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2015/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2014",
+    "nome": "Demonstrações financeiras e relatório da administração 2014",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2014/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2012",
+    "nome": "Demonstrações financeiras e relatório da administração 2012",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2012/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2011",
+    "nome": "Demonstrações financeiras e relatório da administração 2011",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2011/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-2010",
+    "nome": "Demonstrações financeiras e relatório da administração 2010",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-2010/"
+  },
+  {
+    "id": "demonstracoes-financeiras-e-relatorio-da-administracao-1999-1973",
+    "nome": "Demonstrações financeiras e relatório da administração 1999 1973",
+    "url": "/investidores/demonstracoes-financeiras-e-relatorio-da-administracao-1999-1973/"
+  },
+  {
+    "id": "demonstracoes-contabeis-2022",
+    "nome": "Demonstrações contábeis 2022",
+    "url": "/investidores/demonstracoes-contabeis-2022/"
+  },
+  {
+    "id": "demonstracoes-contabeis-2021",
+    "nome": "Demonstrações contábeis 2021",
+    "url": "/investidores/demonstracoes-contabeis-2021/"
+  },
+  {
+    "id": "demonstracoes-contabeis-2020",
+    "nome": "Demonstrações contábeis 2020",
+    "url": "/investidores/demonstracoes-contabeis-2020/"
+  },
+  {
+    "id": "assembleias-2024",
+    "nome": "Assembleias 2024",
+    "url": "/investidores/assembleias-2024/"
+  },
+  {
+    "id": "assembleias-2023",
+    "nome": "Assembleias 2023",
+    "url": "/investidores/assembleias-2023/"
+  },
+  {
+    "id": "assembleias-2022",
+    "nome": "Assembleias 2022",
+    "url": "/investidores/assembleias-2022/"
+  },
+  {
+    "id": "assembleias-2021",
+    "nome": "Assembleias 2021",
+    "url": "/investidores/assembleias-2021/"
+  },
+  {
+    "id": "assembleias-2020",
+    "nome": "Assembleias 2020",
+    "url": "/investidores/assembleias-2020/"
+  },
+  {
+    "id": "assembleias-2019",
+    "nome": "Assembleias 2019",
+    "url": "/investidores/assembleias-2019/"
+  },
+  {
+    "id": "assembleia-2018",
+    "nome": "Assembleia 2018",
+    "url": "/investidores/assembleias/assembleia-2018/"
+  },
+  {
+    "id": "assembleia-2017",
+    "nome": "Assembleia 2017",
+    "url": "/investidores/assembleias/assembleia-2017/"
+  },
+  {
+    "id": "assembleia-2016",
+    "nome": "Assembleia 2016",
+    "url": "/investidores/assembleias/assembleia-2016/"
+  },
+  {
+    "id": "assembleia-2015-2009-1998",
+    "nome": "Assembleia 2015 2009 1998",
+    "url": "/investidores/assembleias/assembleia-2015-2009-1998/"
+  },
+  {
+    "id": "acordos-coletivos",
+    "nome": "Acordos coletivos",
+    "url": "/investidores/acordos-coletivos/"
+  },
+  {
+    "id": "formulario-referencia",
+    "nome": "Formulário referência",
+    "url": "/investidores/formulario-referencia/"
+  },
+  {
+    "id": "formulario-cadastral",
+    "nome": "Formulário cadastral",
+    "url": "/investidores/formulario-cadastral/"
+  },
+  {
+    "id": "fatos-relevantes",
+    "nome": "Fatos relevantes",
+    "url": "/investidores/fatos-relevantes/"
+  },
+  {
+    "id": "comunicados-avisos-e-esclarecimentos-2024",
+    "nome": "Comunicados avisos e esclarecimentos 2024",
+    "url": "/investidores/comunicados-avisos-e-esclarecimentos-2024/"
+  },
+  {
+    "id": "comunicados-avisos-e-esclarecimentos-2022",
+    "nome": "Comunicados avisos e esclarecimentos 2022",
+    "url": "/investidores/comunicados-avisos-e-esclarecimentos-2022/"
+  },
+  {
+    "id": "comunicados-avisos-e-esclarecimentos-2021",
+    "nome": "Comunicados avisos e esclarecimentos 2021",
+    "url": "/investidores/comunicados-avisos-e-esclarecimentos-2021/"
+  },
+  {
+    "id": "avisos-comunicados-e-esclarecimentos-2009",
+    "nome": "Avisos comunicados e esclarecimentos 2009",
+    "url": "/investidores/avisos-comunicados-e-esclarecimentos-2009/"
+  },
+  {
+    "id": "avisos-comunicados-e-esclarecimentos-2010",
+    "nome": "Avisos comunicados e esclarecimentos 2010",
+    "url": "/investidores/avisos-comunicados-e-esclarecimentos-2010/"
+  },
+  {
+    "id": "avisos-comunicados-e-esclarecimentos-2011",
+    "nome": "Avisos comunicados e esclarecimentos 2011",
+    "url": "/investidores/avisos-comunicados-e-esclarecimentos-2011/"
+  },
+  {
+    "id": "avisos-comunicados-e-esclarecimentos-2012",
+    "nome": "Avisos comunicados e esclarecimentos 2012",
+    "url": "/investidores/avisos-comunicados-e-esclarecimentos-2012/"
+  },
+  {
+    "id": "avisos-comunicados-e-esclarecimentos-2013",
+    "nome": "Avisos comunicados e esclarecimentos 2013",
+    "url": "/investidores/avisos-comunicados-e-esclarecimentos-2013/"
+  },
+  {
+    "id": "avisos-comunicados-e-esclarecimentos-2014",
+    "nome": "Avisos comunicados e esclarecimentos 2014",
+    "url": "/investidores/avisos-comunicados-e-esclarecimentos-2014/"
+  },
+  {
+    "id": "avisos-comunicados-e-esclarecimentos-2015",
+    "nome": "Avisos comunicados e esclarecimentos 2015",
+    "url": "/investidores/avisos-comunicados-e-esclarecimentos-2015/"
+  },
+  {
+    "id": "avisos-comunicados-e-esclarecimentos-2016",
+    "nome": "Avisos comunicados e esclarecimentos 2016",
+    "url": "/investidores/avisos-comunicados-e-esclarecimentos-2016/"
+  },
+  {
+    "id": "avisos-comunicados-e-esclarecimentos-2017",
+    "nome": "Avisos comunicados e esclarecimentos 2017",
+    "url": "/investidores/avisos-comunicados-e-esclarecimentos-2017/"
+  },
+  {
+    "id": "avisos-comunicados-e-esclarecimentos-2019",
+    "nome": "Avisos comunicados e esclarecimentos 2019",
+    "url": "/investidores/avisos-comunicados-e-esclarecimentos-2019/"
+  },
+  {
+    "id": "avisos-comunicados-e-esclarecimentos-2020",
+    "nome": "Avisos comunicados e esclarecimentos 2020",
+    "url": "/investidores/avisos-comunicados-e-esclarecimentos-2020/"
+  },
+  {
+    "id": "comunicados-avisos-e-esclarecimentos-2023",
+    "nome": "Comunicados avisos e esclarecimentos 2023",
+    "url": "/investidores/comunicados-avisos-e-esclarecimentos-2023/"
+  },
+  {
+    "id": "comunicados-avisos-e-esclarecimentos-2025",
+    "nome": "Comunicados avisos e esclarecimentos 2025",
+    "url": "/investidores/comunicados-avisos-e-esclarecimentos-2025/"
+  },
+  {
+    "id": "remuneracao-da-diretoria-executiva-e-conselho",
+    "nome": "Remuneração da diretoria executiva e conselho",
+    "url": "/conheca-a-telebras/agentes-publicos/remuneracao-da-diretoria-executiva-e-conselho/"
+  },
+  {
+    "id": "agenda-de-autoridades",
+    "nome": "Agenda de autoridades",
+    "url": "/agenda-de-autoridades/"
+  },
+  {
+    "id": "sobre-o-corregedor",
+    "nome": "Sobre o corregedor",
+    "url": "/sobre-o-corregedor/"
+  },
+  {
+    "id": "consultas-publicas-2013",
+    "nome": "Consultas públicas 2013",
+    "url": "/acesso-a-informacao/consultas-publicas-2013/"
+  },
+  {
+    "id": "imprensa",
+    "nome": "Imprensa",
+    "url": "/imprensa/"
+  },
+  {
+    "id": "contratos-2023",
+    "nome": "Contratos 2023",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/contratos-2023/"
+  },
+  {
+    "id": "contratos-2024",
+    "nome": "Contratos 2024",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/contratos-2024/"
+  },
+  {
+    "id": "licitacoes-realizadas-2020",
+    "nome": "Licitações realizadas 2020",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2020/"
+  },
+  {
+    "id": "comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2024",
+    "nome": "Comitê de pessoas elegibilidade sucessão e remuneração 2024",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2024/"
+  },
+  {
+    "id": "comissao-de-etica",
+    "nome": "Comissão de ética",
+    "url": "/transparencia-e-prestacao-de-contas/comissao-de-etica/"
+  },
+  {
+    "id": "comite-de-auditoria",
+    "nome": "Comitê de auditoria",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-auditoria/"
+  },
+  {
+    "id": "avaliacao-de-metas-e-resultados",
+    "nome": "Avaliação de metas e resultados",
+    "url": "/transparencia-e-prestacao-de-contas/avaliacao-de-metas-e-resultados/"
+  },
+  {
+    "id": "politica-de-dividendos",
+    "nome": "Política de dividendos",
+    "url": "/transparencia-e-prestacao-de-contas/politica-de-dividendos/"
+  },
+  {
+    "id": "politica-de-divulgacao-de-informacoes",
+    "nome": "Política de divulgação de informações",
+    "url": "/transparencia-e-prestacao-de-contas/politica-de-divulgacao-de-informacoes/"
+  },
+  {
+    "id": "prestacao-de-contas",
+    "nome": "Prestação de contas",
+    "url": "/transparencia-e-prestacao-de-contas/prestacao-de-contas/"
+  },
+  {
+    "id": "plano-de-dados-abertos-e-programas-financiados-pelo-fat",
+    "nome": "Plano de dados abertos e programas financiados pelo FAT",
+    "url": "/acesso-a-informacao/plano-de-dados-abertos-e-programas-financiados-pelo-fat/"
+  },
+  {
+    "id": "sobre-a-lei-de-acesso-a-informacao",
+    "nome": "Sobre a lei de acesso a informação",
+    "url": "/acesso-a-informacao/sobre-a-lei-de-acesso-a-informacao/"
+  },
+  {
+    "id": "servico-de-informacao-ao-cidadao-sic",
+    "nome": "Serviço de informação ao cidadão SIC",
+    "url": "/acesso-a-informacao/servico-de-informacao-ao-cidadao-sic/"
+  },
+  {
+    "id": "participacao-social",
+    "nome": "Participação social",
+    "url": "/acesso-a-informacao/participacao-social/"
+  },
+  {
+    "id": "informacoes-classificadas",
+    "nome": "Informações classificadas",
+    "url": "/acesso-a-informacao/informacoes-classificadas/"
+  },
+  {
+    "id": "patrocinios-e-eventos",
+    "nome": "Patrocínios e eventos",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos/"
+  },
+  {
+    "id": "receitas-e-despesas",
+    "nome": "Receitas e despesas",
+    "url": "/acesso-a-informacao/receitas-e-despesas/"
+  },
+  {
+    "id": "acoes-e-programas-2020",
+    "nome": "Ações e programas 2020",
+    "url": "/acesso-a-informacao/acoes-e-programas/acoes-e-programas-2020/"
+  },
+  {
+    "id": "acoes-e-programas",
+    "nome": "Ações e programas",
+    "url": "/acesso-a-informacao/acoes-e-programas/"
+  },
+  {
+    "id": "participacao-societaria",
+    "nome": "Participação societária",
+    "url": "/acesso-a-informacao/institucional/participacao-societaria/"
+  },
+  {
+    "id": "l3vpn-mpls",
+    "nome": "L3VPN MPLS",
+    "url": "/l3vpn-mpls/"
+  },
+  {
+    "id": "ponto-a-ponto-p2p",
+    "nome": "Ponto a ponto P2P",
+    "url": "/ponto-a-ponto-p2p/"
+  },
+  {
+    "id": "ip-telebras",
+    "nome": "IP Telebras",
+    "url": "/ip-telebras/"
+  },
+  {
+    "id": "telebras-sat",
+    "nome": "Telebras SAT",
+    "url": "/telebras-sat/"
+  },
+  {
+    "id": "para-empresas",
+    "nome": "Para empresas",
+    "url": "/para-empresas/"
+  },
+  {
+    "id": "concursos-publicos",
+    "nome": "Concursos públicos",
+    "url": "/conheca-a-telebras/concursos-publicos/"
+  },
+  {
+    "id": "ig-sest",
+    "nome": "IG SEST",
+    "url": "/conheca-a-telebras/plano-estrategico/ig-sest/"
+  },
+  {
+    "id": "cadeia-de-valor",
+    "nome": "Cadeia de valor",
+    "url": "/conheca-a-telebras/plano-estrategico/cadeia-de-valor/"
+  },
+  {
+    "id": "plano-estrategico",
+    "nome": "Plano estratégico",
+    "url": "/conheca-a-telebras/plano-estrategico/"
+  },
+  {
+    "id": "governanca-corporativa",
+    "nome": "Governança corporativa",
+    "url": "/conheca-a-telebras/governanca-corporativa/"
+  },
+  {
+    "id": "contratacao-direta-por-afastamento-de-licitacao",
+    "nome": "Contratação direta por afastamento de licitação",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratacao-direta-por-afastamento-de-licitacao/"
+  },
+  {
+    "id": "terceirizados-2026",
+    "nome": "Terceirizados 2026",
+    "url": "/acesso-a-informacao/terceirizados-2026/"
+  },
+  {
+    "id": "terceirizados-2025",
+    "nome": "Terceirizados 2025",
+    "url": "/acesso-a-informacao/terceirizados-2025/"
+  },
+  {
+    "id": "composicao-capital-social",
+    "nome": "Composição capital social",
+    "url": "/composicao-capital-social/"
+  },
+  {
+    "id": "licitacoes-realizadas-2024",
+    "nome": "Licitações realizadas 2024",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2024/"
+  },
+  {
+    "id": "auditorias-2009",
+    "nome": "Auditorias 2009",
+    "url": "/acesso-a-informacao/auditorias/auditorias-2009/"
+  },
+  {
+    "id": "auditorias-2010",
+    "nome": "Auditorias 2010",
+    "url": "/acesso-a-informacao/auditorias/auditorias-2010/"
+  },
+  {
+    "id": "auditorias-2011",
+    "nome": "Auditorias 2011",
+    "url": "/acesso-a-informacao/auditorias/auditorias-2011/"
+  },
+  {
+    "id": "auditorias-2012",
+    "nome": "Auditorias 2012",
+    "url": "/acesso-a-informacao/auditorias/auditorias-2012/"
+  },
+  {
+    "id": "auditorias-2013",
+    "nome": "Auditorias 2013",
+    "url": "/acesso-a-informacao/auditorias/auditorias-2013/"
+  },
+  {
+    "id": "auditorias-2014",
+    "nome": "Auditorias 2014",
+    "url": "/acesso-a-informacao/auditorias/auditorias-2014/"
+  },
+  {
+    "id": "auditorias-2015",
+    "nome": "Auditorias 2015",
+    "url": "/acesso-a-informacao/auditorias/auditorias-2015/"
+  },
+  {
+    "id": "auditorias-2016",
+    "nome": "Auditorias 2016",
+    "url": "/acesso-a-informacao/auditorias/auditorias-2016/"
+  },
+  {
+    "id": "auditorias-2017",
+    "nome": "Auditorias 2017",
+    "url": "/acesso-a-informacao/auditorias-2017/"
+  },
+  {
+    "id": "contas-anuais",
+    "nome": "Contas anuais",
+    "url": "/acesso-a-informacao/contas-anuais/"
+  },
+  {
+    "id": "telebras-e-servicos-2",
+    "nome": "Telebras e serviços 2",
+    "url": "/acesso-a-informacao/perguntas-frequentes/telebras-e-servicos-2/"
+  },
+  {
+    "id": "participacao-no-mercado-de-acoes",
+    "nome": "Participação no mercado de ações",
+    "url": "/acesso-a-informacao/perguntas-frequentes/participacao-no-mercado-de-acoes/"
+  },
+  {
+    "id": "telebras-e-servicos",
+    "nome": "Telebras e serviços",
+    "url": "/acesso-a-informacao/perguntas-frequentes/telebras-e-servicos/"
+  },
+  {
+    "id": "audiencias-consultas-publicas-2021",
+    "nome": "Audiências consultas públicas 2021",
+    "url": "/acesso-a-informacao/audiencias-consultas-publicas-2021/"
+  },
+  {
+    "id": "audiencias-consultas-publicas-2024",
+    "nome": "Audiências consultas públicas 2024",
+    "url": "/acesso-a-informacao/audiencias-consultas-publicas-2024/"
+  },
+  {
+    "id": "audiencias-consultas-publicas-2023",
+    "nome": "Audiências consultas públicas 2023",
+    "url": "/acesso-a-informacao/audiencias-consultas-publicas-2023/"
+  },
+  {
+    "id": "audiencias-consultas-publicas-2020",
+    "nome": "Audiências consultas públicas 2020",
+    "url": "/acesso-a-informacao/audiencias-consultas-publicas-2020/"
+  },
+  {
+    "id": "consultas-publicas-2020",
+    "nome": "Consultas públicas 2020",
+    "url": "/acesso-a-informacao/audiencias-consultas-publicas-2022/consultas-publicas-2020/"
+  },
+  {
+    "id": "consultas-publicas-2012",
+    "nome": "Consultas públicas 2012",
+    "url": "/acesso-a-informacao/consultas-publicas-2012/"
+  },
+  {
+    "id": "consultas-publicas-2019",
+    "nome": "Consultas públicas 2019",
+    "url": "/acesso-a-informacao/consultas-publicas-2019/"
+  },
+  {
+    "id": "consultas-publicas-2018",
+    "nome": "Consultas públicas 2018",
+    "url": "/acesso-a-informacao/consultas-publicas-2018/"
+  },
+  {
+    "id": "consultas-publicas-2017",
+    "nome": "Consultas públicas 2017",
+    "url": "/acesso-a-informacao/consultas-publicas-2017/"
+  },
+  {
+    "id": "consultas-publicas-2016",
+    "nome": "Consultas públicas 2016",
+    "url": "/acesso-a-informacao/consultas-publicas-2016/"
+  },
+  {
+    "id": "consultas-publicas-2015",
+    "nome": "Consultas públicas 2015",
+    "url": "/acesso-a-informacao/consultas-publicas-2015/"
+  },
+  {
+    "id": "consultas-publicas-2014",
+    "nome": "Consultas públicas 2014",
+    "url": "/acesso-a-informacao/consultas-publicas-2014/"
+  },
+  {
+    "id": "consultas-publicas-2011",
+    "nome": "Consultas públicas 2011",
+    "url": "/acesso-a-informacao/consultas-publicas-2011/"
+  },
+  {
+    "id": "consultas-publicas-2010",
+    "nome": "Consultas públicas 2010",
+    "url": "/acesso-a-informacao/consultas-publicas-2010/"
+  },
+  {
+    "id": "audiencias-consultas-publicas-2022",
+    "nome": "Audiências consultas públicas 2022",
+    "url": "/acesso-a-informacao/audiencias-consultas-publicas-2022/"
+  },
+  {
+    "id": "diarias-e-passagens-2019",
+    "nome": "Diárias e passagens 2019",
+    "url": "/acesso-a-informacao/diarias-e-passagens-2019/"
+  },
+  {
+    "id": "diarias-e-passagens-2020",
+    "nome": "Diárias e passagens 2020",
+    "url": "/acesso-a-informacao/diarias-e-passagens-2020/"
+  },
+  {
+    "id": "diarias-e-passagens-2021",
+    "nome": "Diárias e passagens 2021",
+    "url": "/acesso-a-informacao/diarias-e-passagens-2021/"
+  },
+  {
+    "id": "diarias-e-passagens-2022",
+    "nome": "Diárias e passagens 2022",
+    "url": "/acesso-a-informacao/diarias-e-passagens-2022/"
+  },
+  {
+    "id": "diarias-e-passagens-2023",
+    "nome": "Diárias e passagens 2023",
+    "url": "/acesso-a-informacao/diarias-e-passagens-2023/"
+  },
+  {
+    "id": "diarias-e-passagens-2024",
+    "nome": "Diárias e passagens 2024",
+    "url": "/acesso-a-informacao/diarias-e-passagens-2024/"
+  },
+  {
+    "id": "pesquisa-de-avaliacao-da-carta-de-servicos-do-usuario-da-telebras",
+    "nome": "Pesquisa de avaliação da carta de serviços do usuário da Telebras",
+    "url": "/pesquisa-de-avaliacao-da-carta-de-servicos-do-usuario-da-telebras/"
+  },
+  {
+    "id": "acoes-e-programas-2019",
+    "nome": "Ações e programas 2019",
+    "url": "/acesso-a-informacao/acoes-e-programas/acoes-e-programas-2019/"
+  },
+  {
+    "id": "acoes-e-programas-2025",
+    "nome": "Ações e programas 2025",
+    "url": "/acesso-a-informacao/acoes-e-programas-2025/"
+  },
+  {
+    "id": "acoes-e-programas-2021",
+    "nome": "Ações e programas 2021",
+    "url": "/acesso-a-informacao/acoes-e-programas-2021/"
+  },
+  {
+    "id": "concurso-telebras-2013",
+    "nome": "Concurso Telebras 2013",
+    "url": "/conheca-a-telebras/concursos-publicos/concurso-telebras-2013/"
+  },
+  {
+    "id": "concurso-telebras-2015",
+    "nome": "Concurso Telebras 2015",
+    "url": "/conheca-a-telebras/concursos-publicos/concurso-telebras-2015/"
+  },
+  {
+    "id": "elementor-9857",
+    "nome": "Elementor 9857",
+    "url": "/elementor-9857/"
+  },
+  {
+    "id": "dispensas-e-inexigibilidades",
+    "nome": "Dispensas e inexigibilidades",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/dispensas-e-inexigibilidades/"
+  },
+  {
+    "id": "conselho-de-administracao-2025",
+    "nome": "Conselho de administração 2025",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2025/"
+  },
+  {
+    "id": "licitacoes-em-andamento-2",
+    "nome": "Licitações em andamento 2",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-em-andamento-2/"
+  },
+  {
+    "id": "conheca-o-cope",
+    "nome": "Conheça o COPE",
+    "url": "/telebras-sat/conheca-o-cope/"
+  },
+  {
+    "id": "contratacao-direta-por-afastamento-de-licitacao-2023",
+    "nome": "Contratação direta por afastamento de licitação 2023",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratacao-direta-por-afastamento-de-licitacao-2023/"
+  },
+  {
+    "id": "contratacao-direta-por-afastamento-de-licitacao-2024",
+    "nome": "Contratação direta por afastamento de licitação 2024",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratacao-direta-por-afastamento-de-licitacao-2024/"
+  },
+  {
+    "id": "contratacao-direta-por-afastamento-de-licitacao-2025",
+    "nome": "Contratação direta por afastamento de licitação 2025",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratacao-direta-por-afastamento-de-licitacao-2025/"
+  },
+  {
+    "id": "informacoes-classificadas-2011-2020",
+    "nome": "Informações classificadas 2011 2020",
+    "url": "/acesso-a-informacao/informacoes-classificadas-2011-2020/"
+  },
+  {
+    "id": "informacoes-classificadas-2021",
+    "nome": "Informações classificadas 2021",
+    "url": "/acesso-a-informacao/informacoes-classificadas-2021/"
+  },
+  {
+    "id": "informacoes-classificadas-2022",
+    "nome": "Informações classificadas 2022",
+    "url": "/acesso-a-informacao/informacoes-classificadas-2022/"
+  },
+  {
+    "id": "informacoes-classificadas-2023",
+    "nome": "Informações classificadas 2023",
+    "url": "/acesso-a-informacao/informacoes-classificadas-2023/"
+  },
+  {
+    "id": "informacoes-classificadas-2024",
+    "nome": "Informações classificadas 2024",
+    "url": "/acesso-a-informacao/informacoes-classificadas-2024/"
+  },
+  {
+    "id": "informacoes-classificadas-2025",
+    "nome": "Informações classificadas 2025",
+    "url": "/acesso-a-informacao/informacoes-classificadas-2025/"
+  },
+  {
+    "id": "convenios-e-transferencias-2012",
+    "nome": "Convênios e transferências 2012",
+    "url": "/acesso-a-informacao/convenios-e-transferencias-2012/"
+  },
+  {
+    "id": "convenios-e-transferencias-2013",
+    "nome": "Convênios e transferências 2013",
+    "url": "/acesso-a-informacao/convenios-e-transferencias-2013/"
+  },
+  {
+    "id": "convenios-e-transferencias-2017",
+    "nome": "Convênios e transferências 2017",
+    "url": "/acesso-a-informacao/convenios-e-transferencias-2017/"
+  },
+  {
+    "id": "convenios-e-transferencias-2018",
+    "nome": "Convênios e transferências 2018",
+    "url": "/acesso-a-informacao/convenios-e-transferencias-2018/"
+  },
+  {
+    "id": "convenios-e-transferencias-2022",
+    "nome": "Convênios e transferências 2022",
+    "url": "/acesso-a-informacao/convenios-e-transferencias-2022/"
+  },
+  {
+    "id": "convenios-e-transferencias-2024",
+    "nome": "Convênios e transferências 2024",
+    "url": "/acesso-a-informacao/convenios-e-transferencias-2024/"
+  },
+  {
+    "id": "prestacao-de-contas-e-relatorio-integrado-2020",
+    "nome": "Prestação de contas e relatório integrado 2020",
+    "url": "/transparencia-e-prestacao-de-contas/prestacao-de-contas-e-relatorio-integrado-2020/"
+  },
+  {
+    "id": "prestacao-de-contas-e-relatorio-integrado-2021",
+    "nome": "Prestação de contas e relatório integrado 2021",
+    "url": "/transparencia-e-prestacao-de-contas/prestacao-de-contas-e-relatorio-integrado-2021/"
+  },
+  {
+    "id": "prestacao-de-contas-e-relatorio-integrado-2022",
+    "nome": "Prestação de contas e relatório integrado 2022",
+    "url": "/transparencia-e-prestacao-de-contas/prestacao-de-contas-e-relatorio-integrado-2022/"
+  },
+  {
+    "id": "prestacao-de-contas-e-relatorio-integrado-2023",
+    "nome": "Prestação de contas e relatório integrado 2023",
+    "url": "/transparencia-e-prestacao-de-contas/prestacao-de-contas-e-relatorio-integrado-2023/"
+  },
+  {
+    "id": "prestacao-de-contas-e-relatorio-integrado-2024",
+    "nome": "Prestação de contas e relatório integrado 2024",
+    "url": "/transparencia-e-prestacao-de-contas/prestacao-de-contas-e-relatorio-integrado-2024/"
+  },
+  {
+    "id": "receitas-e-despesas-2018",
+    "nome": "Receitas e despesas 2018",
+    "url": "/acesso-a-informacao/receitas-e-despesas-2018/"
+  },
+  {
+    "id": "receitas-e-despesas-2019",
+    "nome": "Receitas e despesas 2019",
+    "url": "/acesso-a-informacao/receitas-e-despesas-2019/"
+  },
+  {
+    "id": "receitas-e-despesas-2020",
+    "nome": "Receitas e despesas 2020",
+    "url": "/acesso-a-informacao/receitas-e-despesas-2020/"
+  },
+  {
+    "id": "receitas-e-despesas-2021",
+    "nome": "Receitas e despesas 2021",
+    "url": "/acesso-a-informacao/receitas-e-despesas-2021/"
+  },
+  {
+    "id": "receitas-e-despesas-2022",
+    "nome": "Receitas e despesas 2022",
+    "url": "/acesso-a-informacao/receitas-e-despesas-2022/"
+  },
+  {
+    "id": "receitas-e-despesas-2023",
+    "nome": "Receitas e despesas 2023",
+    "url": "/acesso-a-informacao/receitas-e-despesas-2023/"
+  },
+  {
+    "id": "receitas-e-despesas-2024",
+    "nome": "Receitas e despesas 2024",
+    "url": "/acesso-a-informacao/receitas-e-despesas-2024/"
+  },
+  {
+    "id": "receitas-e-despesas-2025",
+    "nome": "Receitas e despesas 2025",
+    "url": "/acesso-a-informacao/receitas-e-despesas-2025/"
+  },
+  {
+    "id": "acordos-coletivos-2013-2014",
+    "nome": "Acordos coletivos 2013 2014",
+    "url": "/investidores/acordos-coletivos-2013-2014/"
+  },
+  {
+    "id": "acordos-coletivos-2014-2015",
+    "nome": "Acordos coletivos 2014 2015",
+    "url": "/investidores/acordos-coletivos-2014-2015/"
+  },
+  {
+    "id": "acordos-coletivos-2015-2016",
+    "nome": "Acordos coletivos 2015 2016",
+    "url": "/investidores/acordos-coletivos-2015-2016/"
+  },
+  {
+    "id": "acordos-coletivos-2016-2017",
+    "nome": "Acordos coletivos 2016 2017",
+    "url": "/investidores/acordos-coletivos-2016-2017/"
+  },
+  {
+    "id": "acordos-coletivos-2017-2018",
+    "nome": "Acordos coletivos 2017 2018",
+    "url": "/investidores/acordos-coletivos-2017-2018/"
+  },
+  {
+    "id": "acordos-coletivos-2018-2019",
+    "nome": "Acordos coletivos 2018 2019",
+    "url": "/investidores/acordos-coletivos-2018-2019/"
+  },
+  {
+    "id": "acordos-coletivos-2019-2020",
+    "nome": "Acordos coletivos 2019 2020",
+    "url": "/investidores/acordos-coletivos-2019-2020/"
+  },
+  {
+    "id": "acordos-coletivos-2020-2021",
+    "nome": "Acordos coletivos 2020 2021",
+    "url": "/investidores/acordos-coletivos-2020-2021/"
+  },
+  {
+    "id": "acordos-coletivos-2021-2022",
+    "nome": "Acordos coletivos 2021 2022",
+    "url": "/investidores/acordos-coletivos-2021-2022/"
+  },
+  {
+    "id": "acordos-coletivos-2022-2023",
+    "nome": "Acordos coletivos 2022 2023",
+    "url": "/investidores/acordos-coletivos-2022-2023/"
+  },
+  {
+    "id": "acordos-coletivos-2023-2024",
+    "nome": "Acordos coletivos 2023 2024",
+    "url": "/investidores/acordos-coletivos-2023-2024/"
+  },
+  {
+    "id": "acordos-coletivos-2024-2026",
+    "nome": "Acordos coletivos 2024 2026",
+    "url": "/investidores/acordos-coletivos-2024-2026/"
+  },
+  {
+    "id": "terceirizados-2019",
+    "nome": "Terceirizados 2019",
+    "url": "/acesso-a-informacao/terceirizados-2019/"
+  },
+  {
+    "id": "terceirizados-2020",
+    "nome": "Terceirizados 2020",
+    "url": "/acesso-a-informacao/terceirizados-2020/"
+  },
+  {
+    "id": "terceirizados-2021",
+    "nome": "Terceirizados 2021",
+    "url": "/acesso-a-informacao/terceirizados-2021/"
+  },
+  {
+    "id": "terceirizados-2022",
+    "nome": "Terceirizados 2022",
+    "url": "/acesso-a-informacao/terceirizados-2022/"
+  },
+  {
+    "id": "terceirizados-2023",
+    "nome": "Terceirizados 2023",
+    "url": "/acesso-a-informacao/terceirizados-2023/"
+  },
+  {
+    "id": "terceirizados-2024",
+    "nome": "Terceirizados 2024",
+    "url": "/acesso-a-informacao/terceirizados-2024/"
+  },
+  {
+    "id": "tabelas-salariais-2023-2024",
+    "nome": "Tabelas salariais 2023 2024",
+    "url": "/conheca-a-telebras/tabelas-salariais-2023-2024/"
+  },
+  {
+    "id": "tabelas-salariais-2022-2023",
+    "nome": "Tabelas salariais 2022 2023",
+    "url": "/conheca-a-telebras/tabelas-salariais-2022-2023/"
+  },
+  {
+    "id": "tabelas-salariais-2020-2021",
+    "nome": "Tabelas salariais 2020 2021",
+    "url": "/conheca-a-telebras/tabelas-salariais-2020-2021/"
+  },
+  {
+    "id": "tabelas-salariais-2019-2020",
+    "nome": "Tabelas salariais 2019 2020",
+    "url": "/conheca-a-telebras/tabelas-salariais-2019-2020/"
+  },
+  {
+    "id": "tabelas-salariais-2025-2026",
+    "nome": "Tabelas salariais 2025 2026",
+    "url": "/conheca-a-telebras/tabelas-salariais-2025-2026/"
+  },
+  {
+    "id": "tabelas-salariais-2024-2025",
+    "nome": "Tabelas salariais 2024 2025",
+    "url": "/conheca-a-telebras/tabelas-salariais-2024-2025/"
+  },
+  {
+    "id": "tabelas-salariais-2021-2022",
+    "nome": "Tabelas salariais 2021 2022",
+    "url": "/conheca-a-telebras/tabelas-salariais-2021-2022/"
+  },
+  {
+    "id": "tabelas-salariais",
+    "nome": "Tabelas salariais",
+    "url": "/conheca-a-telebras/tabelas-salariais/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2011",
+    "nome": "Patrocínios e eventos 2011",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2011/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2012",
+    "nome": "Patrocínios e eventos 2012",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2012/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2013",
+    "nome": "Patrocínios e eventos 2013",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2013/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2014",
+    "nome": "Patrocínios e eventos 2014",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2014/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2015",
+    "nome": "Patrocínios e eventos 2015",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2015/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2016",
+    "nome": "Patrocínios e eventos 2016",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2016/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2017",
+    "nome": "Patrocínios e eventos 2017",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2017/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2018",
+    "nome": "Patrocínios e eventos 2018",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2018/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2019",
+    "nome": "Patrocínios e eventos 2019",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2019/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2020",
+    "nome": "Patrocínios e eventos 2020",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2020/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2021",
+    "nome": "Patrocínios e eventos 2021",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2021/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2022",
+    "nome": "Patrocínios e eventos 2022",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2022/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2023",
+    "nome": "Patrocínios e eventos 2023",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2023/"
+  },
+  {
+    "id": "patrocinios-e-eventos-2024",
+    "nome": "Patrocínios e eventos 2024",
+    "url": "/acesso-a-informacao/patrocinios-e-eventos-2024/"
+  },
+  {
+    "id": "relatorio-anual-da-auditoria-raint",
+    "nome": "Relatório anual da auditoria RAINT",
+    "url": "/acesso-a-informacao/auditorias/relatorio-anual-da-auditoria-raint/"
+  },
+  {
+    "id": "audiencias-consultas-publicas-2025",
+    "nome": "Audiências consultas públicas 2025",
+    "url": "/acesso-a-informacao/audiencias-consultas-publicas-2025/"
+  },
+  {
+    "id": "contratos-2026",
+    "nome": "Contratos 2026",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/contratos-2026/"
+  },
+  {
+    "id": "assembleias-2025",
+    "nome": "Assembleias 2025",
+    "url": "/investidores/assembleias-2025/"
+  },
+  {
+    "id": "relatorios-da-ouvidoria-2025",
+    "nome": "Relatórios da ouvidoria 2025",
+    "url": "/acesso-a-informacao/relatorios-da-ouvidoria-2025/"
+  },
+  {
+    "id": "conselho-fiscal-2025",
+    "nome": "Conselho fiscal 2025",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-fiscal-2025/"
+  },
+  {
+    "id": "conselho-fiscal-antigo",
+    "nome": "Conselho fiscal antigo",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-fiscal-antigo/"
+  },
+  {
+    "id": "diarias-e-passagens-2022-2",
+    "nome": "Diárias e passagens 2022 2",
+    "url": "/acesso-a-informacao/diarias-e-passagens-2022-2/"
+  },
+  {
+    "id": "diarias-e-passagens-2025",
+    "nome": "Diárias e passagens 2025",
+    "url": "/acesso-a-informacao/diarias-e-passagens-2025/"
+  },
+  {
+    "id": "licitacoes-realizadas-2025",
+    "nome": "Licitações realizadas 2025",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-realizadas-2025/"
+  },
+  {
+    "id": "licitacoes-em-andamento-2025",
+    "nome": "Licitações em andamento 2025",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-em-andamento-2025/"
+  },
+  {
+    "id": "plano-anual-de-atividades-de-auditoria-interna-paint",
+    "nome": "Plano anual de atividades de auditoria interna PAINT",
+    "url": "/acesso-a-informacao/auditorias/plano-anual-de-atividades-de-auditoria-interna-paint/"
+  },
+  {
+    "id": "conselho-de-administracao-2022",
+    "nome": "Conselho de administração 2022",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2022/"
+  },
+  {
+    "id": "conselho-de-administracao-2023",
+    "nome": "Conselho de administração 2023",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2023/"
+  },
+  {
+    "id": "conselho-de-administracao-2024",
+    "nome": "Conselho de administração 2024",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2024/"
+  },
+  {
+    "id": "formulario-2-envio-de-documentos-cadastrais-de-habilitacao-aviso-02-2025-copy",
+    "nome": "Formulário 2 envio de documentos cadastrais de habilitação aviso 02 2025 copy",
+    "url": "/formulario-2-envio-de-documentos-cadastrais-de-habilitacao-aviso-02-2025-copy/"
+  },
+  {
+    "id": "formulario-2-envio-de-documentos-cadastrais-de-habilitacao-aviso-01-2026",
+    "nome": "Formulário 2 envio de documentos cadastrais de habilitação aviso 01 2026",
+    "url": "/formulario-2-envio-de-documentos-cadastrais-de-habilitacao-aviso-01-2026/"
+  },
+  {
+    "id": "formulario-1-envio-proposta-comercial-e-qualificacao-tecnica-aviso-01-2026",
+    "nome": "Formulário 1 envio proposta comercial e qualificação técnica aviso 01 2026",
+    "url": "/formulario-1-envio-proposta-comercial-e-qualificacao-tecnica-aviso-01-2026/"
+  },
+  {
+    "id": "quem-e-quem-ouvidoria",
+    "nome": "Ouvidoria",
+    "url": "/acesso-a-informacao/institucional/quem-e-quem/ouvidoria/"
+  },
+  {
+    "id": "licitacoes-em-andamento-2023",
+    "nome": "Licitações em andamento 2023",
+    "url": "/licitacoes-em-andamento-2023/"
+  },
+  {
+    "id": "auditorias",
+    "nome": "Auditorias",
+    "url": "/acesso-a-informacao/auditorias/"
+  },
+  {
+    "id": "telebras-fibra",
+    "nome": "Telebras fibra",
+    "url": "/telebras-fibra/"
+  },
+  {
+    "id": "acessilidade",
+    "nome": "Acessibilidade",
+    "url": "/acessilidade/"
+  },
+  {
+    "id": "conheca-o-sgdc",
+    "nome": "Conheça o SGDC",
+    "url": "/telebras-sat/conheca-o-sgdc/"
+  },
+  {
+    "id": "conheca-o-decreto-da-preferencia",
+    "nome": "Conheça o decreto da preferência",
+    "url": "/conheca-o-decreto-da-preferencia/"
+  },
+  {
+    "id": "telebras-sat-2",
+    "nome": "Telebras SAT 2",
+    "url": "/telebras-sat-2/"
+  },
+  {
+    "id": "comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2019",
+    "nome": "Comitê de pessoas elegibilidade sucessão e remuneração 2019",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2019/"
+  },
+  {
+    "id": "comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2018",
+    "nome": "Comitê de pessoas elegibilidade sucessão e remuneração 2018",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2018/"
+  },
+  {
+    "id": "comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2020",
+    "nome": "Comitê de pessoas elegibilidade sucessão e remuneração 2020",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2020/"
+  },
+  {
+    "id": "telebras-sat-2-2-2",
+    "nome": "Telebras SAT 2 2 2",
+    "url": "/telebras-sat-2-2-2/"
+  },
+  {
+    "id": "conexao-em-todo-brasil",
+    "nome": "Conexão em todo Brasil",
+    "url": "/telebras-sat/conexao-em-todo-brasil/"
+  },
+  {
+    "id": "comite-de-auditoria-2018",
+    "nome": "Comitê de auditoria 2018",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-auditoria-2018/"
+  },
+  {
+    "id": "conselho-de-administracao-2011",
+    "nome": "Conselho de administração 2011",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2011/"
+  },
+  {
+    "id": "conselho-de-administracao-2012",
+    "nome": "Conselho de administração 2012",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2012/"
+  },
+  {
+    "id": "conselho-de-administracao-2013",
+    "nome": "Conselho de administração 2013",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2013/"
+  },
+  {
+    "id": "conselho-de-administracao-2014",
+    "nome": "Conselho de administração 2014",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2014/"
+  },
+  {
+    "id": "conselho-de-administracao-2015",
+    "nome": "Conselho de administração 2015",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2015/"
+  },
+  {
+    "id": "conselho-de-administracao-2016",
+    "nome": "Conselho de administração 2016",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2016/"
+  },
+  {
+    "id": "conselho-de-administracao-2017",
+    "nome": "Conselho de administração 2017",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2017/"
+  },
+  {
+    "id": "conselho-de-administracao-2018",
+    "nome": "Conselho de administração 2018",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2018/"
+  },
+  {
+    "id": "conselho-de-administracao-2019",
+    "nome": "Conselho de administração 2019",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2019/"
+  },
+  {
+    "id": "comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2021",
+    "nome": "Comitê de pessoas elegibilidade sucessão e remuneração 2021",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2021/"
+  },
+  {
+    "id": "comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2022",
+    "nome": "Comitê de pessoas elegibilidade sucessão e remuneração 2022",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2022/"
+  },
+  {
+    "id": "comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2023",
+    "nome": "Comitê de pessoas elegibilidade sucessão e remuneração 2023",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-pessoas-elegibilidade-sucessao-e-remuneracao-2023/"
+  },
+  {
+    "id": "comite-de-auditoria-2022",
+    "nome": "Comitê de auditoria 2022",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-auditoria-2022/"
+  },
+  {
+    "id": "comite-de-auditoria-2023",
+    "nome": "Comitê de auditoria 2023",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-auditoria-2023/"
+  },
+  {
+    "id": "solucoes-satelitais",
+    "nome": "Soluções satelitais",
+    "url": "/para-empresas/solucoes-satelitais/"
+  },
+  {
+    "id": "para-o-governo-solucoes-satelitais",
+    "nome": "Soluções satelitais",
+    "url": "/para-o-governo/solucoes-satelitais/"
+  },
+  {
+    "id": "conheca-backbone",
+    "nome": "Conheça Backbone",
+    "url": "/conheca-backbone/"
+  },
+  {
+    "id": "conselho-de-administracao-antigo",
+    "nome": "Conselho de administração antigo",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-antigo/"
+  },
+  {
+    "id": "quem-e-quem-conselho-fiscal",
+    "nome": "Conselho fiscal",
+    "url": "/acesso-a-informacao/institucional/quem-e-quem/conselho-fiscal/"
+  },
+  {
+    "id": "cessoes-de-infraestrutura",
+    "nome": "Cessões de infraestrutura",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/cessoes-de-infraestrutura/"
+  },
+  {
+    "id": "conselho-fiscal-2024",
+    "nome": "Conselho fiscal 2024",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-fiscal-2024/"
+  },
+  {
+    "id": "conselho-fiscal-2023",
+    "nome": "Conselho fiscal 2023",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-fiscal-2023/"
+  },
+  {
+    "id": "conselho-fiscal-2022",
+    "nome": "Conselho fiscal 2022",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-fiscal-2022/"
+  },
+  {
+    "id": "conselho-fiscal-2021",
+    "nome": "Conselho fiscal 2021",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-fiscal-2021/"
+  },
+  {
+    "id": "conselho-fiscal-2019",
+    "nome": "Conselho fiscal 2019",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-fiscal-2019/"
+  },
+  {
+    "id": "conselho-fiscal-2018",
+    "nome": "Conselho fiscal 2018",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-fiscal-2018/"
+  },
+  {
+    "id": "conselho-fiscal-2020",
+    "nome": "Conselho fiscal 2020",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-fiscal-2020/"
+  },
+  {
+    "id": "conselho-de-administracao-2020",
+    "nome": "Conselho de administração 2020",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2020/"
+  },
+  {
+    "id": "conselho-de-administracao-2021",
+    "nome": "Conselho de administração 2021",
+    "url": "/transparencia-e-prestacao-de-contas/conselho-de-administracao-2021/"
+  },
+  {
+    "id": "comite-de-auditoria-2024",
+    "nome": "Comitê de auditoria 2024",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-auditoria-2024/"
+  },
+  {
+    "id": "sobre-a-ouvidoria",
+    "nome": "Sobre a ouvidoria",
+    "url": "/acesso-a-informacao/sobre-a-ouvidoria/"
+  },
+  {
+    "id": "fluxo-interno-ouvidotia2",
+    "nome": "Fluxo interno ouvidoria 2",
+    "url": "/acesso-a-informacao/fluxo-interno-ouvidotia2/"
+  },
+  {
+    "id": "fluxo-interno-ouvidoria",
+    "nome": "Fluxo interno ouvidoria",
+    "url": "/acesso-a-informacao/fluxo-interno-ouvidoria/"
+  },
+  {
+    "id": "contratos-2021",
+    "nome": "Contratos 2021",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/contratos-2021/"
+  },
+  {
+    "id": "contas-anuais-tcu",
+    "nome": "Contas anuais TCU",
+    "url": "/acesso-a-informacao/contas-anuais-tcu/"
+  },
+  {
+    "id": "envio-de-documentos-cadastrais-de-habilitacao-aviso-02-2025",
+    "nome": "Envio de documentos cadastrais de habilitação aviso 02 2025",
+    "url": "/envio-de-documentos-cadastrais-de-habilitacao-aviso-02-2025/"
+  },
+  {
+    "id": "envio-proposta-comercial-e-qualificacao-tecnica-aviso-02-2025",
+    "nome": "Envio proposta comercial e qualificação técnica aviso 02 2025",
+    "url": "/envio-proposta-comercial-e-qualificacao-tecnica-aviso-02-2025/"
+  },
+  {
+    "id": "envio-documentos-cadastrais-de-habilitacao-aviso-01-2025",
+    "nome": "Envio documentos cadastrais de habilitação aviso 01 2025",
+    "url": "/envio-documentos-cadastrais-de-habilitacao-aviso-01-2025/"
+  },
+  {
+    "id": "envio-proposta-comercial-aviso-01-2025",
+    "nome": "Envio proposta comercial aviso 01 2025",
+    "url": "/envio-proposta-comercial-aviso-01-2025/"
+  },
+  {
+    "id": "contratacao-de-solucoes-de-infraestrutura-de-rede-de-dados",
+    "nome": "Contratação de soluções de infraestrutura de rede de dados",
+    "url": "/contratacao-de-solucoes-de-infraestrutura-de-rede-de-dados/"
+  },
+  {
+    "id": "comunicados-avisos-e-esclarecimentos2022-antigo",
+    "nome": "Comunicados avisos e esclarecimentos2022 antigo",
+    "url": "/investidores/comunicados-avisos-e-esclarecimentos2022_antigo/"
+  },
+  {
+    "id": "avisos-comunicados-esclarecimentos2021-antigo",
+    "nome": "Avisos comunicados esclarecimentos2021 antigo",
+    "url": "/investidores/avisos-comunicados-esclarecimentos2021_antigo/"
+  },
+  {
+    "id": "relatorios-da-ouvidoria-2024",
+    "nome": "Relatórios da ouvidoria 2024",
+    "url": "/relatorios-da-ouvidoria-2024/"
+  },
+  {
+    "id": "licitacoes-em-andamento-2024",
+    "nome": "Licitações em andamento 2024",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-em-andamento-2024/"
+  },
+  {
+    "id": "auditoria",
+    "nome": "Auditoria",
+    "url": "/acesso-a-informacao/institucional/quem-e-quem/auditoria/"
+  },
+  {
+    "id": "envio-proposta-comercial-contratacao-de-solucoes-de-infraestrutura-de-rede-de-dados",
+    "nome": "Envio proposta comercial contratação de soluções de infraestrutura de rede de dados",
+    "url": "/envio-proposta-comercial-contratacao-de-solucoes-de-infraestrutura-de-rede-de-dados/"
+  },
+  {
+    "id": "envio-proposta-comercial-contratacao-de-empresa-de-plataforma-dns",
+    "nome": "Envio proposta comercial contratação de empresa de plataforma DNS",
+    "url": "/envio-proposta-comercial-contratacao-de-empresa-de-plataforma-dns/"
+  },
+  {
+    "id": "contratacao-de-empresa-de-plataforma-dns",
+    "nome": "Contratação de empresa de plataforma DNS",
+    "url": "/contratacao-de-empresa-de-plataforma-dns/"
+  },
+  {
+    "id": "envio-proposta-comercial-contratacao-da-construcao-de-rede-metropolitana-no-municipio-de-brasilia-df",
+    "nome": "Envio proposta comercial contratação da construção de rede metropolitana no município de Brasília DF",
+    "url": "/envio-proposta-comercial-contratacao-da-construcao-de-rede-metropolitana-no-municipio-de-brasilia-df/"
+  },
+  {
+    "id": "contratacao-da-construcao-de-rede-metropolitana-no-municipio-de-brasilia-df",
+    "nome": "Contratação da construção de rede metropolitana no município de Brasília DF",
+    "url": "/contratacao-da-construcao-de-rede-metropolitana-no-municipio-de-brasilia-df/"
+  },
+  {
+    "id": "envio-proposta-comercial-aquisicao-de-sobressalentes-de-notebooks",
+    "nome": "Envio proposta comercial aquisição de sobressalentes de notebooks",
+    "url": "/envio-proposta-comercial-aquisicao-de-sobressalentes-de-notebooks/"
+  },
+  {
+    "id": "aquisicao-de-sobressalentes-de-nobreaks",
+    "nome": "Aquisição de sobressalentes de nobreaks",
+    "url": "/aquisicao-de-sobressalentes-de-nobreaks/"
+  },
+  {
+    "id": "fornecimento-de-sobressalentes-de-infraestrutura-associadas-a-ventilacao",
+    "nome": "Fornecimento de sobressalentes de infraestrutura associadas a ventilação",
+    "url": "/fornecimento-de-sobressalentes-de-infraestrutura-associadas-a-ventilacao/"
+  },
+  {
+    "id": "envio-proposta-comercial-fornecimento-de-sobressalentes-de-infraestrutura-associadas-a-ventilacao",
+    "nome": "Envio proposta comercial fornecimento de sobressalentes de infraestrutura associadas a ventilação",
+    "url": "/envio-proposta-comercial-fornecimento-de-sobressalentes-de-infraestrutura-associadas-a-ventilacao/"
+  },
+  {
+    "id": "envio-proposta-comercial-fornecimento-de-sobressalentes-de-infraestrutura-associadas-a-ventilacao2",
+    "nome": "Envio proposta comercial fornecimento de sobressalentes de infraestrutura associadas a ventilação 2",
+    "url": "/envio-proposta-comercial-fornecimento-de-sobressalentes-de-infraestrutura-associadas-a-ventilacao2/"
+  },
+  {
+    "id": "fornecimento-de-sobressalentes-de-infraestrutura-associadas-a-ventilacao2",
+    "nome": "Fornecimento de sobressalentes de infraestrutura associadas a ventilação 2",
+    "url": "/fornecimento-de-sobressalentes-de-infraestrutura-associadas-a-ventilacao2/"
+  },
+  {
+    "id": "prop-comer-servico-reparo",
+    "nome": "Prop comer serviço reparo",
+    "url": "/prop-comer-servico-reparo/"
+  },
+  {
+    "id": "contratacao-servico-reparo",
+    "nome": "Contratação serviço reparo",
+    "url": "/contratacao-servico-reparo/"
+  },
+  {
+    "id": "envio-proposta-comercial",
+    "nome": "Envio proposta comercial",
+    "url": "/envio-proposta-comercial/"
+  },
+  {
+    "id": "contratacao-direta-licitacao-lna",
+    "nome": "Contratação direta licitação LNA",
+    "url": "/contratacao-direta-licitacao-lna/"
+  },
+  {
+    "id": "contratacao-infra-telecom",
+    "nome": "Contratação infra telecom",
+    "url": "/contratacao-infra-telecom/"
+  },
+  {
+    "id": "relatorios-da-ouvidoria-2022",
+    "nome": "Relatórios da ouvidoria 2022",
+    "url": "/relatorios-da-ouvidoria-2022/"
+  },
+  {
+    "id": "comite-de-auditoria-2021",
+    "nome": "Comitê de auditoria 2021",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-auditoria-2021/"
+  },
+  {
+    "id": "mapa-do-site",
+    "nome": "Mapa do site",
+    "url": "/mapa-do-site/"
+  },
+  {
+    "id": "notas-de-empenho-2022",
+    "nome": "Notas de empenho 2022",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/notas-de-empenho-2022/"
+  },
+  {
+    "id": "contratos-2016",
+    "nome": "Contratos 2016",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/contratos-2016/"
+  },
+  {
+    "id": "comite-de-auditoria-2019",
+    "nome": "Comitê de auditoria 2019",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-auditoria-2019/"
+  },
+  {
+    "id": "dispensas-e-inexigibilidades-2022",
+    "nome": "Dispensas e inexigibilidades 2022",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/dispensas-e-inexigibilidades-2022/"
+  },
+  {
+    "id": "valores-mobiliarios-2020",
+    "nome": "Valores mobiliários 2020",
+    "url": "/investidores/valores-mobiliarios-2020/"
+  },
+  {
+    "id": "relatorios-da-ouvidoria-2017-2018",
+    "nome": "Relatórios da ouvidoria 2017 2018",
+    "url": "/relatorios-da-ouvidoria-2017-2018/"
+  },
+  {
+    "id": "relatorios-da-ouvidoria-2019",
+    "nome": "Relatórios da ouvidoria 2019",
+    "url": "/relatorios-da-ouvidoria-2019/"
+  },
+  {
+    "id": "relatorios-da-ouvidoria-2020",
+    "nome": "Relatórios da ouvidoria 2020",
+    "url": "/acesso-a-informacao/relatorios-da-ouvidoria-2020/"
+  },
+  {
+    "id": "relatorios-da-ouvidoria-2021",
+    "nome": "Relatórios da ouvidoria 2021",
+    "url": "/relatorios-da-ouvidoria-2021/"
+  },
+  {
+    "id": "natal-goc",
+    "nome": "Natal GOC",
+    "url": "/natal-goc/"
+  },
+  {
+    "id": "processos-de-desfazimento-em-construcao",
+    "nome": "Processos de desfazimento em construção",
+    "url": "/acesso-a-informacao/processos-de-desfazimento-em-construcao/"
+  },
+  {
+    "id": "termos-de-uso",
+    "nome": "Termos de uso",
+    "url": "/termos-de-uso/"
+  },
+  {
+    "id": "notas-de-empenho-2021",
+    "nome": "Notas de empenho 2021",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/notas-de-empenho-2021/"
+  },
+  {
+    "id": "comite-de-auditoria-2020",
+    "nome": "Comitê de auditoria 2020",
+    "url": "/transparencia-e-prestacao-de-contas/comite-de-auditoria-2020/"
+  },
+  {
+    "id": "fatos-relevantes-2",
+    "nome": "Fatos relevantes 2",
+    "url": "/investidores/fatos-relevantes-2/"
+  },
+  {
+    "id": "licitacoes-em-andamento-2015",
+    "nome": "Licitações em andamento 2015",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-em-andamento-2015/"
+  },
+  {
+    "id": "valores-mobiliarios-2017",
+    "nome": "Valores mobiliários 2017",
+    "url": "/investidores/valores-mobiliarios-2021/valores-mobiliarios-2017/"
+  },
+  {
+    "id": "valores-mobiliarios-2016",
+    "nome": "Valores mobiliários 2016",
+    "url": "/investidores/valores-mobiliarios-2021/valores-mobiliarios-2016/"
+  },
+  {
+    "id": "valores-mobiliarios-2015",
+    "nome": "Valores mobiliários 2015",
+    "url": "/investidores/valores-mobiliarios-2021/valores-mobiliarios-2015/"
+  },
+  {
+    "id": "valores-mobiliarios-2014",
+    "nome": "Valores mobiliários 2014",
+    "url": "/investidores/valores-mobiliarios-2021/valores-mobiliarios-2014/"
+  },
+  {
+    "id": "valores-mobiliarios-2013",
+    "nome": "Valores mobiliários 2013",
+    "url": "/investidores/valores-mobiliarios-2021/valores-mobiliarios-2013/"
+  },
+  {
+    "id": "valores-mobiliarios-2012",
+    "nome": "Valores mobiliários 2012",
+    "url": "/investidores/valores-mobiliarios-2021/valores-mobiliarios-2012/"
+  },
+  {
+    "id": "valores-mobiliarios-2011",
+    "nome": "Valores mobiliários 2011",
+    "url": "/investidores/valores-mobiliarios-2021/valores-mobiliarios-2011/"
+  },
+  {
+    "id": "fatos-relevantes-2007",
+    "nome": "Fatos relevantes 2007",
+    "url": "/investidores/fatos-relevantes/fatos-relevantes-2007/"
+  },
+  {
+    "id": "leis-de-criacao-da-telebras",
+    "nome": "Leis de criação da Telebras",
+    "url": "/instrumentos-de-governanca/leis-de-criacao-da-telebras/"
+  },
+  {
+    "id": "licitacoes-em-andamento-2016",
+    "nome": "Licitações em andamento 2016",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/licitacoes-em-andamento-2016/"
+  },
+  {
+    "id": "ordens-de-compra-2018-2",
+    "nome": "Ordens de compra 2018 2",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/ordens-de-compra-2018-2/"
+  },
+  {
+    "id": "dispensas-e-inexigibilidades-2018",
+    "nome": "Dispensas e inexigibilidades 2018",
+    "url": "/acesso-a-informacao/licitacoes-e-contratos/contratos-e-ordem-de-compra/dispensas-e-inexigibilidades-2018/"
+  },
+  {
+    "id": "datacenter",
+    "nome": "Data Center",
+    "url": "/telebras-sat/datacenter/"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "total": 1,
+  "totalPassed": 1,
+  "totalFailed": 0,
+  "totalSuites": 1,
+  "suites": [
+    {
+      "name": "layout.cy.js",
+      "path": "cypress\\e2e\\layout.cy.js",
+      "tests": [
+        {
+          "status": "pass",
+          "name": "layout.cy-envio-proposta-comercial-e-qualificacao-tecnica-aviso-02-2025",
+          "percentage": 0,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-envio-proposta-comercial-e-qualificacao-tecnica-aviso-02-2025.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-envio-proposta-comercial-e-qualificacao-tecnica-aviso-02-2025.png"
+        }
+      ]
+    }
+  ],
+  "startedAt": "2026-09-17T14:37:20.587Z",
+  "endedAt": "2026-09-17T14:37:29.241Z",
+  "duration": 8654,
+  "browserName": "electron",
+  "browserVersion": "118.0.5993.159",
+  "cypressVersion": "13.17.0"
+}

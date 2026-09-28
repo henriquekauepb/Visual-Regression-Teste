@@ -1,0 +1,108 @@
+{
+  "total": 8,
+  "totalPassed": 6,
+  "totalFailed": 2,
+  "totalSuites": 1,
+  "suites": [
+    {
+      "name": "layout.cy.js",
+      "path": "cypress\\e2e\\layout.cy.js",
+      "tests": [
+        {
+          "status": "pass",
+          "name": "layout.cy-acessilidade",
+          "percentage": 0,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-acessilidade.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-acessilidade.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-conheca-o-sgdc",
+          "percentage": 0,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-conheca-o-sgdc.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-conheca-o-sgdc.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-conheca-o-decreto-da-preferencia",
+          "percentage": 0,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-conheca-o-decreto-da-preferencia.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-conheca-o-decreto-da-preferencia.png"
+        },
+        {
+          "status": "fail",
+          "name": "layout.cy-telebras-sat-2",
+          "percentage": 0.3426707295128858,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-telebras-sat-2.png",
+          "diffPath": "cypress-image-diff-screenshots\\diff\\layout.cy-telebras-sat-2.png",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-telebras-sat-2.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-quem-e-quem-ouvidoria",
+          "percentage": 0.001307440900921227,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-quem-e-quem-ouvidoria.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-quem-e-quem-ouvidoria.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-licitacoes-em-andamento-2023",
+          "percentage": 0.001905440997299804,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-licitacoes-em-andamento-2023.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-licitacoes-em-andamento-2023.png"
+        },
+        {
+          "status": "pass",
+          "name": "layout.cy-auditorias",
+          "percentage": 0.001896608104527204,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-auditorias.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-auditorias.png"
+        },
+        {
+          "status": "fail",
+          "name": "layout.cy-telebras-fibra",
+          "percentage": 0.5360984838625793,
+          "failureThreshold": 0.2,
+          "specPath": "cypress\\e2e\\layout.cy.js",
+          "specFilename": "layout.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\layout.cy-telebras-fibra.png",
+          "diffPath": "cypress-image-diff-screenshots\\diff\\layout.cy-telebras-fibra.png",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\layout.cy-telebras-fibra.png"
+        }
+      ]
+    }
+  ],
+  "startedAt": "2026-09-17T14:30:53.754Z",
+  "endedAt": "2026-09-17T14:32:01.853Z",
+  "duration": 68099,
+  "browserName": "electron",
+  "browserVersion": "118.0.5993.159",
+  "cypressVersion": "13.17.0"
+}
